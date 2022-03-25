@@ -18,8 +18,8 @@ jobs:
          
       - name: Setup
         run: |
-          git config --local user.email "git@xdeveryti.me"
-          git config --local user.name "Ali"
+          git config --local user.email "nanazchn@pm.me"
+          git config --local user.name "Nazwa"
           
       - name: Running python script
         run: python main.py
